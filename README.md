@@ -1,10 +1,14 @@
-### Wellcome!
+## Welcome!
 
 I'm Jordi a **quality** enthusiast obsessed with clean code and enabling developers to be fast and confident with they work. 
 
-The main technologies I use are:
+
+#### The main technologies I use are:
+
 Code: Java | Python
+
 Frameworks: JUnit5 | Pytest | SerenityBDD
+
 Tools: Postmain | Vysor | Mockoon | Insomnia
 
 I'm also learning Unity with C#.
