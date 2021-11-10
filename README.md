@@ -1,4 +1,13 @@
-### Hi there 👋
+### Wellcome!
+
+I'm Jordi a **quality** enthusiast obsessed with clean code and enabling developers to be fast and confident with they work. 
+
+The main technologies I use are:
+Code: Java | Python
+Frameworks: JUnit5 | Pytest | SerenityBDD
+Tools: Postmain | Vysor | Mockoon | Insomnia
+
+I'm also learning Unity with C#.
 
 <!--
 **jmarquesl/jmarquesl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
