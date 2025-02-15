@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there! 👋 I'm Jordi Marqués Llaberia</h1>
 
 <p align="center">
@@ -46,9 +45,9 @@ I firmly believe that for an agile team to thrive, it must foster continuous imp
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordi-marqu%C3%A9s-llaberia-11685145/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmarquesl/)
 
 ---
 
-💡 _"Continuous improvement and adaptability are the keys to delivering outstanding software."_
+💡 _"Optimism is an occupational hazard of programming; feedback is the treatment.k"_ - Kent Beck
