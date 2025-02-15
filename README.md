@@ -1,5 +1,5 @@
-```md
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+
+<h1 align="center">Hi there! 👋 I'm Jordi Marqués Llaberia</h1>
 
 <p align="center">
   <em>Software Engineer | Agile Enthusiast | Test Automation Advocate</em>
@@ -52,4 +52,3 @@ I firmly believe that for an agile team to thrive, it must foster continuous imp
 ---
 
 💡 _"Continuous improvement and adaptability are the keys to delivering outstanding software."_
-```
